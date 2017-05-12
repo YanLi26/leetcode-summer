@@ -8,7 +8,7 @@ time complexity = O(n)
 
 space complexity = O(n/2)
 
-runtime: beat 1.95%
+runtime: beat 63.72%
 
 ## Summary
 ### BFS
