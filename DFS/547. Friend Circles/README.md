@@ -10,7 +10,7 @@ the best time complexity = O(n^2)
 
 space complexity = O(n)
 
-runtime: beat 9.43%
+runtime: beat 5.94%
 
 ## Summary
 ### DFS
